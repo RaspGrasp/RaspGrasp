@@ -1,0 +1,5 @@
+config.php
+assets/uploads/
+*.log
+.DS_Store
+Thumbs.db
