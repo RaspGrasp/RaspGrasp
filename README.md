@@ -50,7 +50,7 @@ status     : open to collaboration
 **now building**
 
 - `runit`: a cross-platform cli assistant
-- `bedrock`: a bare-metal systems language for mips32
+- `BedRock Language Open Source`: a bare-metal systems language for mips32
 
 </td>
 </tr>
