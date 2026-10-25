@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:302d41,100:cba6f7&height=260&section=header&text=mrDevRussia&fontSize=52&fontColor=cdd6f4&animation=fadeIn&fontAlignY=40&desc=Karim%20Mohamed%20El-Shamy%20%E2%80%94%20Independent%20Software%20Developer&descAlignY=58&descSize=16&descColor=b4befe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:302d41,100:cba6f7&height=260&section=header&text=RaspGrasp&fontSize=52&fontColor=cdd6f4&animation=fadeIn&fontAlignY=40&desc=Karim%20Mohamed%20El-Shamy%20%E2%80%94%20Independent%20Software%20Developer&descAlignY=58&descSize=16&descColor=b4befe" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=CBA6F7&center=true&vCenter=true&width=560&lines=independent+software+developer;learning+rust+%2B+c;building+runit-cli;systems+programming+enthusiast;open+to+collaboration" alt="typing" />
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/mrDevRussia?label=followers&style=flat-square&color=cba6f7&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/github/followers/RaspGrasp?label=followers&style=flat-square&color=cba6f7&labelColor=1e1e2e"/>
 <img src="https://img.shields.io/badge/org-codexverse-b4befe?style=flat-square&labelColor=1e1e2e"/>
 <img src="https://img.shields.io/badge/location-egypt-f5c2e7?style=flat-square&labelColor=1e1e2e"/>
 <img src="https://img.shields.io/badge/discord-fm.44-89b4fa?style=flat-square&labelColor=1e1e2e"/>
@@ -20,7 +20,7 @@
 <img align="right" src="https://c.tenor.com/L-gQo2N1qQcAAAAj/azusa-nakano-k-on.gif" width="130" alt="Azusa" />
 
 ```text
-karim@mrdevrussia
+karim@RaspGrasp
 ──────────────────
 os         : egypt linux
 host       : codexverse
@@ -64,14 +64,14 @@ status     : open to collaboration
 <tr>
 <td width="70%">
 
-**[runit-cli (windows)](https://github.com/mrDevRussia/RunIT-CLI-Tool_WINDOWS)**
+**[runit-cli (windows)](https://github.com/RaspGrasp/RunIT-CLI-Tool_WINDOWS)**
 <br/>smart terminal assistant: executes, creates and analyzes code files
 
 </td>
 <td width="30%" align="right">
 
-![lang](https://img.shields.io/github/languages/top/mrDevRussia/RunIT-CLI-Tool_WINDOWS?style=flat-square&color=cba6f7&labelColor=1e1e2e&label=)
-![stars](https://img.shields.io/github/stars/mrDevRussia/RunIT-CLI-Tool_WINDOWS?style=flat-square&color=f5c2e7&labelColor=1e1e2e)
+![lang](https://img.shields.io/github/languages/top/RaspGrasp/RunIT-CLI-Tool_WINDOWS?style=flat-square&color=cba6f7&labelColor=1e1e2e&label=)
+![stars](https://img.shields.io/github/stars/RaspGrasp/RunIT-CLI-Tool_WINDOWS?style=flat-square&color=f5c2e7&labelColor=1e1e2e)
 
 </td>
 </tr>
@@ -79,14 +79,14 @@ status     : open to collaboration
 <tr>
 <td width="70%">
 
-**[runit-cli (linux)](https://github.com/mrDevRussia/RunIT-CLI-Tool_LINUX)**
+**[runit-cli (linux)](https://github.com/RaspGrasp/RunIT-CLI-Tool_LINUX)**
 <br/>same terminal assistant, ported for linux
 
 </td>
 <td width="30%" align="right">
 
-![lang](https://img.shields.io/github/languages/top/mrDevRussia/RunIT-CLI-Tool_LINUX?style=flat-square&color=cba6f7&labelColor=1e1e2e&label=)
-![stars](https://img.shields.io/github/stars/mrDevRussia/RunIT-CLI-Tool_LINUX?style=flat-square&color=f5c2e7&labelColor=1e1e2e)
+![lang](https://img.shields.io/github/languages/top/RaspGrasp/RunIT-CLI-Tool_LINUX?style=flat-square&color=cba6f7&labelColor=1e1e2e&label=)
+![stars](https://img.shields.io/github/stars/RaspGrasp/RunIT-CLI-Tool_LINUX?style=flat-square&color=f5c2e7&labelColor=1e1e2e)
 
 </td>
 </tr>
@@ -94,14 +94,14 @@ status     : open to collaboration
 <tr>
 <td width="70%">
 
-**[bedrock](https://github.com/mrDevRussia/BedRock-Language-Open-Source)**
+**[bedrock](https://github.com/RaspGrasp/BedRock-Language-Open-Source)**
 <br/>minimalist bare-metal systems language
 
 </td>
 <td width="30%" align="right">
 
-![lang](https://img.shields.io/github/languages/top/mrDevRussia/BedRock-Language-Open-Source?style=flat-square&color=cba6f7&labelColor=1e1e2e&label=)
-![stars](https://img.shields.io/github/stars/mrDevRussia/BedRock-Language-Open-Source?style=flat-square&color=f5c2e7&labelColor=1e1e2e)
+![lang](https://img.shields.io/github/languages/top/RaspGrasp/BedRock-Language-Open-Source?style=flat-square&color=cba6f7&labelColor=1e1e2e&label=)
+![stars](https://img.shields.io/github/stars/RaspGrasp/BedRock-Language-Open-Source?style=flat-square&color=f5c2e7&labelColor=1e1e2e)
 
 </td>
 </tr>
@@ -109,14 +109,14 @@ status     : open to collaboration
 <tr>
 <td width="70%">
 
-**[myprotfolio](https://github.com/mrDevRussia/MyProtfolio)**
+**[myprotfolio](https://github.com/RaspGrasp/MyProtfolio)**
 <br/>personal portfolio site
 
 </td>
 <td width="30%" align="right">
 
-![lang](https://img.shields.io/github/languages/top/mrDevRussia/MyProtfolio?style=flat-square&color=cba6f7&labelColor=1e1e2e&label=)
-![stars](https://img.shields.io/github/stars/mrDevRussia/MyProtfolio?style=flat-square&color=f5c2e7&labelColor=1e1e2e)
+![lang](https://img.shields.io/github/languages/top/RaspGrasp/MyProtfolio?style=flat-square&color=cba6f7&labelColor=1e1e2e&label=)
+![stars](https://img.shields.io/github/stars/RaspGrasp/MyProtfolio?style=flat-square&color=f5c2e7&labelColor=1e1e2e)
 
 </td>
 </tr>
@@ -141,7 +141,7 @@ status     : open to collaboration
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=mrDevRussia&theme=catppuccin-mocha&hide_border=true&v=1" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=RaspGrasp&theme=catppuccin-mocha&hide_border=true&v=1" width="70%"/>
 
 <br/><br/>
 </div>
@@ -152,11 +152,11 @@ status     : open to collaboration
 <div align="center">
 
 <img src="https://img.shields.io/badge/discord-fm.44-89b4fa?style=flat-square&labelColor=1e1e2e"/>
-<a href="https://github.com/mrDevRussia"><img src="https://img.shields.io/badge/github-mrDevRussia-cba6f7?style=flat-square&labelColor=1e1e2e"/></a>
+<a href="https://github.com/RaspGrasp"><img src="https://img.shields.io/badge/github-RaspGrasp-cba6f7?style=flat-square&labelColor=1e1e2e"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mrDevRussia&label=profile+views&color=cba6f7&style=flat-square&labelColor=1e1e2e" />
+<img src="https://komarev.com/ghpvc/?username=RaspGrasp&label=profile+views&color=cba6f7&style=flat-square&labelColor=1e1e2e" />
 
 </div>
 
