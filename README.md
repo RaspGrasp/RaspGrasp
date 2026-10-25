@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/github/followers/RaspGrasp?label=followers&style=flat-square&color=cba6f7&labelColor=1e1e2e"/>
 <img src="https://img.shields.io/badge/org-codexverse-b4befe?style=flat-square&labelColor=1e1e2e"/>
 <img src="https://img.shields.io/badge/location-egypt-f5c2e7?style=flat-square&labelColor=1e1e2e"/>
-<img src="https://img.shields.io/badge/discord-fm.44-89b4fa?style=flat-square&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/badge/discord-x4a3-89b4fa?style=flat-square&labelColor=1e1e2e"/>
 
 </div>
 
@@ -151,7 +151,7 @@ status     : open to collaboration
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/discord-fm.44-89b4fa?style=flat-square&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/badge/discord-x4a3-89b4fa?style=flat-square&labelColor=1e1e2e"/>
 <a href="https://github.com/RaspGrasp"><img src="https://img.shields.io/badge/github-RaspGrasp-cba6f7?style=flat-square&labelColor=1e1e2e"/></a>
 
 <br/><br/>
