@@ -64,6 +64,23 @@ status     : open to collaboration
 <tr>
 <td width="70%">
 
+**[BedRock Language Open Source](https://github.com/RaspGrasp/BedRock-Language-Open-Source)**
+<br/>minimalist bare-metal systems language
+
+</td>
+<td width="30%" align="right">
+
+![lang](https://img.shields.io/github/languages/top/RaspGrasp/BedRock-Language-Open-Source?style=flat-square&color=cba6f7&labelColor=1e1e2e&label=)
+![stars](https://img.shields.io/github/stars/RaspGrasp/BedRock-Language-Open-Source?style=flat-square&color=f5c2e7&labelColor=1e1e2e)
+
+</td>
+</tr>
+
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:302d41&height=1&width=100%"/></td></tr>
+
+<tr>
+<td width="70%">
+
 **[runit-cli (windows)](https://github.com/RaspGrasp/RunIT-CLI-Tool_WINDOWS)**
 <br/>smart terminal assistant: executes, creates and analyzes code files
 
@@ -75,7 +92,9 @@ status     : open to collaboration
 
 </td>
 </tr>
+
 <tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:302d41&height=1&width=100%"/></td></tr>
+
 <tr>
 <td width="70%">
 
@@ -90,22 +109,9 @@ status     : open to collaboration
 
 </td>
 </tr>
+
 <tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:302d41&height=1&width=100%"/></td></tr>
-<tr>
-<td width="70%">
 
-**[BedRock Language Open Source](https://github.com/RaspGrasp/BedRock-Language-Open-Source)**
-<br/>minimalist bare-metal systems language
-
-</td>
-<td width="30%" align="right">
-
-![lang](https://img.shields.io/github/languages/top/RaspGrasp/BedRock-Language-Open-Source?style=flat-square&color=cba6f7&labelColor=1e1e2e&label=)
-![stars](https://img.shields.io/github/stars/RaspGrasp/BedRock-Language-Open-Source?style=flat-square&color=f5c2e7&labelColor=1e1e2e)
-
-</td>
-</tr>
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:302d41&height=1&width=100%"/></td></tr>
 <tr>
 <td width="70%">
 
@@ -121,7 +127,6 @@ status     : open to collaboration
 </td>
 </tr>
 </table>
-
 
 ## stack
 
