@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:302d41,100:cba6f7&height=260&section=header&text=RaspGrasp&fontSize=52&fontColor=cdd6f4&animation=fadeIn&fontAlignY=40&desc=Karim%20Mohamed%20El-Shamy%20%E2%80Independent%20Software%20Developer&descAlignY=58&descSize=16&descColor=b4befe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:302d41,100:cba6f7&height=260&section=header&text=RaspGrasp&fontSize=52&fontColor=cdd6f4&animation=fadeIn&fontAlignY=40&desc=Karim%20Mohamed%20El-Shamy%20%E2%20Independent%20Software%20Developer&descAlignY=58&descSize=16&descColor=b4befe" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=CBA6F7&center=true&vCenter=true&width=560&lines=independent+software+developer;learning+rust+%2B+c;building+runit-cli;systems+programming+enthusiast;open+to+collaboration" alt="typing" />
 
