@@ -42,8 +42,7 @@ status     : open to collaboration
 
 - systems programming: rust, c
 - cli tooling: python
-- currently deep in rust ownership & c memory management
-
+- currently deep in rust ownership
 </td>
 <td width="50%" valign="top">
 
