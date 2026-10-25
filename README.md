@@ -22,12 +22,12 @@
 ```text
 karim@RaspGrasp
 ──────────────────
-os         : egypt linux
+os         : Null linux
 host       : codexverse
-kernel     : rust 1.x / c99
-shell      : python3
-editor     : vs code
-languages  : rust, c, python, javascript, html
+kernel     : rust 1.97.1 / c99
+shell      : Bash
+editor     : gedit
+languages  : rust,BedRock
 role       : independent software developer
 status     : open to collaboration
 ```
