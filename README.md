@@ -94,7 +94,7 @@ status     : open to collaboration
 <tr>
 <td width="70%">
 
-**[bedrock](https://github.com/RaspGrasp/BedRock-Language-Open-Source)**
+**[BedRock Language Open Source](https://github.com/RaspGrasp/BedRock-Language-Open-Source)**
 <br/>minimalist bare-metal systems language
 
 </td>
